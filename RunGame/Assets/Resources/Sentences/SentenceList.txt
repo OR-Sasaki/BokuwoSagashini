@@ -1,0 +1,7 @@
+0,ぼくをさがしに　０,bokuwosagasini0
+20,ぼくをさがしに　１,bokuwosagasini1
+40,ぼくをさがしに　２,bokuwosagasini2
+60,ぼくをさがしに　３,bokuwosagasini3
+80,ぼくをさがしに　４,bokuwosagasini4
+100,ぼくをさがしに　５,bokuwosagasini5
+120,ぼくをさがしに　６,bokuwosagasini6
