@@ -1414,7 +1414,7 @@ Prefab:
     - target: {fileID: 114399212664282394, guid: 8e4e7d1c8c22b4b0bb639ea6a16847c1,
         type: 2}
       propertyPath: m_Color.a
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114248973100169008, guid: 8e4e7d1c8c22b4b0bb639ea6a16847c1, type: 2}
@@ -1950,8 +1950,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cce9f462cbd54512a9cbcde9b713e2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  applicationKey: aa4ee353254f7fb4a48492f367c5d624dbdc733fc1924e4085ff178e21b78664
-  clientKey: 950fd0c3559764f9c5c3bc1b47a4847bfe895be7da9b25a9b34569885208cac1
+  applicationKey: 
+  clientKey: 
   usePush: 0
   useAnalytics: 0
   androidSenderId: 
